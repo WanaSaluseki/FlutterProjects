@@ -4,7 +4,7 @@
 
 # Flutter Projects
 ## [Project 1 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
-## [Project 2 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
+## [Project 2 - I am rich](https://github.com/WanaSaluseki/i_am_rich)
 ## [Project 3 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
 ## [Project 4 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
 ## [Project 5 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
