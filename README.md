@@ -3,5 +3,5 @@
 </p>
 
 # Flutter Projects
-## [Project 1](https://github.com/WanaSaluseki/I-am-poor)
+## [Project 1 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
 
