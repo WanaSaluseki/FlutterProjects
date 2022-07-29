@@ -9,5 +9,6 @@
 ## [Project 4 - Dicee](https://github.com/WanaSaluseki/dicee)
 ## [Project 5 - Xylophone](https://github.com/WanaSaluseki/Xylophone)
 ## [Project 6 - Quizzler](https://github.com/WanaSaluseki/Quizzler)
-## [Project 7 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
+## [Project 7 - BMI Calculator](https://github.com/WanaSaluseki/BMI_Calculator)
+## [Project 1 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
 
