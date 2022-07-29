@@ -8,6 +8,6 @@
 ## [Project 3 - Me card](https://github.com/WanaSaluseki/Mi_Card)
 ## [Project 4 - Dicee](https://github.com/WanaSaluseki/dicee)
 ## [Project 5 - Xylophone](https://github.com/WanaSaluseki/Xylophone)
-## [Project 6 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
+## [Project 6 - Quizzler](https://github.com/WanaSaluseki/Quizzler)
 ## [Project 7 - I am poor](https://github.com/WanaSaluseki/I-am-poor)
 
